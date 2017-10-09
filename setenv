@@ -1,0 +1,1 @@
+export data_file="${PWD}/datafiles/bb.txt"
