@@ -3,6 +3,8 @@ Just a simple project to test protobuf with mvn and java.
 
 Pre-condition:
 1. Make sure "protoc" is ready
+   $ protoc --version
+   libprotoc 3.4.0
 2. Make sure "maven" is ready
 3. Make sure "java" is ready
 
